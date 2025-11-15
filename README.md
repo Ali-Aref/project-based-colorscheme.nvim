@@ -60,7 +60,6 @@ require("project-based-colorscheme").setup({
     "CMakeLists.txt",
     ".project-root"
   },
-  auto_setup = false,                       -- Automatically setup on plugin load (disabled by default)
 })
 ```
 

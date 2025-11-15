@@ -19,7 +19,6 @@ local default_config = {
 		"CMakeLists.txt",
 		".project-root",
 	},
-	auto_setup = false, -- Automatically setup on plugin load (set to true in setup() if desired)
 }
 
 local config = default_config
